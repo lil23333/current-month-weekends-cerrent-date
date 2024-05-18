@@ -1,0 +1,38 @@
+body {
+    background:#708090 ;
+}
+ #btn {
+    background: #008;
+    color:beige;
+
+}
+tr, td {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #483D8B;
+}
+row {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #2F4F4F;
+}
+.class1 {
+font-family: cursive;
+font-weight: bold;
+}
+
+.class2 {
+    font-family: fantasy;
+    font-style: oblique;
+    }
+
+#story {
+    background: #FFEFD5;
+}
+
+.color1 {
+    background: #DC143C;  
+}
+.color2 {
+    background: #2F4F4F;  
+}
